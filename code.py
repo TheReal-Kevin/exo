@@ -1,1 +1,1 @@
-print("Version finale du code après résolution du conflit")
+print("Version finale du code aprÃ¨s rÃ©solution du conflit")
