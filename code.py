@@ -1,2 +1,3 @@
-from module import obtenir_temps
-print("Version B du code")
+from datetime import datetime
+
+print("Hello ! Il est {}.".format(datetime.now().strftime("%H:%M:%S")))
