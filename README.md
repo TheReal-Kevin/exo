@@ -1,4 +1,4 @@
-# Exerce TP1 et TP2 : Manipulation de Branches et Résolution de Conflits Git
+# Exercice TP1 et TP2 : Manipulation de Branches et Résolution de Conflits Git
 
 ## TP1 : Branches, Push et Merge
 1. Commencer avec `code.py` initial :
